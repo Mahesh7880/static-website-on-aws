@@ -8,8 +8,8 @@ Just wrapped up a thrilling Amazon S3 project!
 - ✅ Tackled public access settings and fixed an interesting challenge with the website's visibility.
 
 ## Documentation
-📸 See my journey from creating buckets to deploying a fully functional static website in my documentation here: ** 
-[aws-host-a-website-on-s3 .pdf](https://github.com/user-attachments/files/20852907/aws-host-a-website-on-s3.pdf)** 
+📸 See my journey from creating buckets to deploying a fully functional static website in my documentation here:  
+[aws-host-a-website-on-s3 .pdf](https://github.com/user-attachments/files/20852907/aws-host-a-website-on-s3.pdf) 
 
 
 ## Connect with Me:
