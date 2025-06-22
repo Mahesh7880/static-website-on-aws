@@ -1,6 +1,6 @@
 # 🚀 Amazon S3 Project Overview
 
-Just wrapped up a thrilling Amazon S3 project—challenge mode engaged!
+Just wrapped up a thrilling Amazon S3 project!
 
 ## Project Highlights
 - ✅ Created and configured an Amazon S3 bucket, complete with ACLs, versioning, and public access.
